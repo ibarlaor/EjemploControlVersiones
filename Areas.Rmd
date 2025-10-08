@@ -13,3 +13,7 @@ r <- 0.5
 area <- pi*r^2
 ```
 
+```{r}
+lado <- 3
+areacuadrado <- lado^2
+```
