@@ -13,3 +13,7 @@ r<-0.5
 area<-pi*r^2
 ```
 
+```{r}
+Lado<-3
+areacuad<-Lado^2
+```
