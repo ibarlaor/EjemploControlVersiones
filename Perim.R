@@ -4,3 +4,6 @@ areacuadradp<-function(L){
 areatriangulo<-function(b,h){
   return(0.5*b*h)
 }
+arearect<-function(b,h){
+  return(b*h)
+}
