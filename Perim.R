@@ -22,5 +22,9 @@ perimrect<-function(b,h){
 }
 >>>>>>> Rama2
 f1<-function(L,l){
+<<<<<<< HEAD
   return((L+l)*2)
+=======
+  return(2*(L+l))
+>>>>>>> Rama3
 }
