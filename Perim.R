@@ -15,3 +15,7 @@ long<-function(r){
   return(2*pi*r)
 >>>>>>> perimetros
 }
+area_trapecio <- function(base_mayor, base_menor, altura) {
+  area <- ((base_mayor + base_menor) * altura) / 2
+  return(area)
+  }
